@@ -1,5 +1,5 @@
 # OneDevBoardInAll
-Development board with RP2040 MCU, USB Type-C Power Delivery, and built-in SWD debugging interface. No extra tools needed, saving time and money. Get everything in one board.
+Development board with RP2040 MCU, USB Type-C Power Delivery, and built-in SWD debugging interface. No extra tools needed, saving time and money. Get everything in one board. Say goodbye to different USB ports.
 
 # Description
 A development board featuring the RP2040 microcontroller, equipped with USB Type-C Power Delivery and a built-in SWD debugging interface. This integrated solution eliminates the need for additional debugging tools, offering significant time and cost savings. Purchase one board that combines multiple functionalities, streamlining your development process.
