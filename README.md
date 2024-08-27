@@ -1,4 +1,4 @@
-# DevBoardDebugHighPowerCon
+# OneDevBoardInAll
 Development board with RP2040 MCU, USB Type-C Power Delivery, and built-in SWD debugging interface. No extra tools needed, saving time and money. Get everything in one board.
 
 # Description
@@ -9,7 +9,7 @@ A development board featuring the RP2040 microcontroller, equipped with USB Type
 
 # Trademark naming from shorted sentences
 
-**Dev**elopment **Board** with Integrated **Debug**ger Tools and **High-Power** Supply **Con**trol 
+**One** **Dev**elopment **Board** **In** **All** Function
 
 # Copyright
 This project and its content are the original work of Misha Zaslavskis. Unauthorized distribution, sale, or publication of this work is strictly prohibited.
